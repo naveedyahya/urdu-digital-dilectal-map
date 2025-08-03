@@ -1,4 +1,3 @@
-Code for Dialect Mapping
 import streamlit as st
 import pandas as pd
 import folium
@@ -777,4 +776,3 @@ elif main_tab == "📚 Corpus Management":
     
     # Corpus management tabs
     corpus_tab1, corpus_tab2, corpus_tab3, corpus_tab4 = st.tabs
-
